@@ -1,2 +1,3 @@
-# Curses-project-1
-Created a colorful terminal to see a text moving in different position
+# My Curses Project
+A fun Python script that makes colorful text dance in the terminal! 🎨✨
+Run it with: `python main.py`
